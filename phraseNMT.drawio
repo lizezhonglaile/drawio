@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T10:01:43.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rQkxzMK9pskuDRqh5nux" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T10:11:49.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="z3SH67ODIYOOtdYKdlnn" version="16.1.0" type="github">
   <diagram id="V2DTb5OL1VRiCWGHtdKA" name="Page-1">
-    <mxGraphModel dx="1650" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HLqIzH_CmG0HXDuHbw4a-8" value="Src" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="169" y="483" width="110" height="50" as="geometry" />
+          <mxGeometry x="169" y="483" width="110" height="17" as="geometry" />
         </mxCell>
         <mxCell id="HLqIzH_CmG0HXDuHbw4a-9" value="Phrasal Translation&lt;br&gt;Retrival" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358" y="530" width="110" height="50" as="geometry" />
@@ -160,10 +160,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HLqIzH_CmG0HXDuHbw4a-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;dashed=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="263.5" width="150" height="300" as="geometry" />
+          <mxGeometry x="149" y="291" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="HLqIzH_CmG0HXDuHbw4a-64" value="Tgt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="564" y="484" width="110" height="50" as="geometry" />
+          <mxGeometry x="564" y="483" width="110" height="17" as="geometry" />
         </mxCell>
         <mxCell id="HLqIzH_CmG0HXDuHbw4a-74" value="Masked Multi-Head &lt;br&gt;Attention" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="564" y="407.5" width="110" height="50" as="geometry" />
@@ -213,7 +213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HLqIzH_CmG0HXDuHbw4a-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;dashed=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="740" y="146" width="150" height="404" as="geometry" />
+          <mxGeometry x="544" y="215" width="150" height="255" as="geometry" />
         </mxCell>
         <mxCell id="HLqIzH_CmG0HXDuHbw4a-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=3;startSize=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -289,7 +289,7 @@
           <mxGeometry x="359" y="110" width="110" height="18.5" as="geometry" />
         </mxCell>
         <mxCell id="X5AMhHzkb54LyGPV_iVm-8" value="Output Prob" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="40" width="110" height="18.5" as="geometry" />
+          <mxGeometry x="564" y="110" width="110" height="18.5" as="geometry" />
         </mxCell>
         <mxCell id="X5AMhHzkb54LyGPV_iVm-9" value="Word Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="280" width="110" height="22" as="geometry" />
