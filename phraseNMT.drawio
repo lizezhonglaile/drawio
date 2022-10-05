@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T11:25:51.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="17UypUo1NnrKaE-2q_5J" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-05T14:39:59.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="i4B5aEed0ieYNWKlzNQP" version="20.3.6" type="github">
   <diagram id="V2DTb5OL1VRiCWGHtdKA" name="Page-1">
-    <mxGraphModel dx="946" dy="454" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-47" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="385.1" y="2062.63" width="416.9" height="163.37" as="geometry" />
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-59" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="372" y="1975" width="441" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-46" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#E6E6E6;strokeColor=#666666;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="383.4" y="1994.25" width="422.6" height="46.75" as="geometry" />
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-47" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="385.1" y="1985.63" width="416.9" height="163.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-46" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#E6E6E6;strokeColor=#666666;gradientColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="383.4" y="2164.25" width="422.6" height="46.75" as="geometry" />
         </mxCell>
         <mxCell id="X5AMhHzkb54LyGPV_iVm-243" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;dashed=1;fillColor=#99FF99;strokeColor=#b85450;fillOpacity=100;strokeOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="305" y="1226" width="132" height="134" as="geometry" />
@@ -997,169 +1000,199 @@
           <mxGeometry x="195.6" y="1768" width="468" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-2" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;植物&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="1932" width="47" height="27" as="geometry" />
+          <mxGeometry x="25" y="1932" width="47" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-4" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;育成&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60.599999999999994" y="1932" width="47" height="27" as="geometry" />
+          <mxGeometry x="41.599999999999994" y="1932" width="47" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-5" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;の&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="111.60000000000002" y="1932" width="33.4" height="27" as="geometry" />
+          <mxGeometry x="92.60000000000002" y="1932" width="33.4" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-6" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;から&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="242.39999999999998" y="1932" width="47" height="27" as="geometry" />
+          <mxGeometry x="223.39999999999998" y="1920" width="47" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-7" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;多様&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1932" width="47" height="27" as="geometry" />
+          <mxGeometry x="136" y="1932" width="47" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-8" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;性&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1932" width="33.4" height="27" as="geometry" />
+          <mxGeometry x="186" y="1932" width="33.4" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-9" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;経験&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="391" y="2003" width="47" height="27" as="geometry" />
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-9" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;経験 と&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="2173" width="81" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-10" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;と&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="2003" width="33.4" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-11" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;勘&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="483.6" y="2003" width="33.4" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-12" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;に&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="519.6" y="2003" width="33.4" height="27" as="geometry" />
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-11" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;勘 に&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487.6" y="2173" width="61.4" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-15" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;頼る&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="562.8" y="2003" width="47" height="27" as="geometry" />
+          <mxGeometry x="562.8" y="2173" width="47" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-16" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;部分&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619.4" y="2003" width="47" height="27" as="geometry" />
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-16" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;部分 が&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624.4" y="2173" width="73.6" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-17" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;が&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669.4" y="2003" width="33.4" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-18" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;残さ&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="713" y="2003" width="47" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-19" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;れ&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="763" y="2003" width="33.4" height="27" as="geometry" />
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-18" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;残さ れ&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="2173" width="76" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-20" value="&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;植物 培育 的 多样性 导致 依赖于 经验 与 直觉 的 部分 仍然 存在&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210.5" y="1788" width="370" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-21" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; font-family: monospace; font-size: 14px; display: block; padding: 1px 0px; margin: 0px; line-height: inherit; color: rgb(0, 0, 0); word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;残留	0.259	剩余	0.069	保留	0.052	留下&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="223.6" y="2240" width="440" height="40" as="geometry" />
+          <mxGeometry x="123" y="1788" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-23" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;经验 和&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="394" y="2072" width="79" height="27" as="geometry" />
+          <mxGeometry x="394" y="1995" width="79" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-24" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;经验 与&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="2109" width="79" height="27" as="geometry" />
+          <mxGeometry x="394" y="2032" width="79" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-25" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;经验 以及&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="2145" width="79" height="27" as="geometry" />
+          <mxGeometry x="394" y="2068" width="79" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-26" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;直觉&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2072" width="60" height="27" as="geometry" />
+          <mxGeometry x="490" y="1995" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-27" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;感觉&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2109" width="60" height="27" as="geometry" />
+          <mxGeometry x="490" y="2032" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-28" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;依赖于&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563.8" y="2072" width="47.2" height="27" as="geometry" />
+          <mxGeometry x="563.8" y="1995" width="47.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-29" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;依赖&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563.8" y="2109" width="47.2" height="27" as="geometry" />
+          <mxGeometry x="563.8" y="2032" width="47.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-30" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;依靠&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563.8" y="2145" width="47.2" height="27" as="geometry" />
+          <mxGeometry x="563.8" y="2068" width="47.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-31" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;部分&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="623.8" y="2072.5" width="76.2" height="27" as="geometry" />
+          <mxGeometry x="623.8" y="1995.5" width="76.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-32" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;部分 是&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="623.8" y="2109.5" width="76.2" height="27" as="geometry" />
+          <mxGeometry x="623.8" y="2032.5" width="76.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-33" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;部分 被&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="623.8" y="2145.5" width="76.2" height="27" as="geometry" />
+          <mxGeometry x="623.8" y="2068.5" width="76.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-34" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;部分 为&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="623.8" y="2182" width="76.2" height="27" as="geometry" />
+          <mxGeometry x="623.8" y="2105" width="76.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-35" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;经验&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="2182" width="79" height="27" as="geometry" />
+          <mxGeometry x="394" y="2105" width="79" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-36" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;残留&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="716" y="2072" width="76.2" height="27" as="geometry" />
+          <mxGeometry x="716" y="1995" width="76.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-37" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;保留&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="716" y="2109" width="76.2" height="27" as="geometry" />
+          <mxGeometry x="716" y="2032" width="76.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-38" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;留下&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="716" y="2145" width="76.2" height="27" as="geometry" />
+          <mxGeometry x="716" y="2068" width="76.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-39" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;存在&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="716" y="2181.5" width="76.2" height="27" as="geometry" />
+          <mxGeometry x="716" y="2104.5" width="76.2" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-40" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479" y="2224" as="sourcePoint" />
-            <mxPoint x="479" y="1994" as="targetPoint" />
+            <mxPoint x="479" y="2206" as="sourcePoint" />
+            <mxPoint x="479" y="1989" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-41" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-41" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0000;startArrow=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="558.55" y="2224" as="sourcePoint" />
-            <mxPoint x="558.55" y="1994" as="targetPoint" />
+            <mxPoint x="559" y="2203" as="sourcePoint" />
+            <mxPoint x="558.55" y="1991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-42" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="615.41" y="2224" as="sourcePoint" />
-            <mxPoint x="615.41" y="1994" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-43" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="707.7999999999998" y="2224" as="sourcePoint" />
-            <mxPoint x="707.7999999999998" y="1994" as="targetPoint" />
+            <mxPoint x="615" y="2203" as="sourcePoint" />
+            <mxPoint x="615.41" y="1991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-44" value="Src Phrase" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="303.4" y="1998" width="80" height="30" as="geometry" />
+          <mxGeometry x="296" y="2173" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-45" value="Tgt Phrase" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="303.4" y="2079" width="80" height="30" as="geometry" />
+          <mxGeometry x="295" y="2042" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-48" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;Encoder&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1913" width="175" height="46" as="geometry" />
+          <mxGeometry x="390" y="1909" width="175" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-49" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;Decoder&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1913" width="176.4" height="46" as="geometry" />
+          <mxGeometry x="620" y="1909" width="176.4" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-50" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ptX2DU8aKGZaoR_pnGZ3-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="545" y="2051" as="sourcePoint" />
-            <mxPoint x="620" y="1936" as="targetPoint" />
+            <mxPoint x="545" y="2047" as="sourcePoint" />
+            <mxPoint x="620" y="1932" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-51" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="463" y="1994" as="sourcePoint" />
-            <mxPoint x="463" y="1959" as="targetPoint" />
+            <mxPoint x="463" y="1975" as="sourcePoint" />
+            <mxPoint x="463" y="1956" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-52" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="718" y="1994.25" as="sourcePoint" />
-            <mxPoint x="718" y="1959" as="targetPoint" />
+            <mxPoint x="718" y="1975.25" as="sourcePoint" />
+            <mxPoint x="718" y="1954" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-54" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="717" y="1913" as="sourcePoint" />
-            <mxPoint x="717" y="1880" as="targetPoint" />
+            <mxPoint x="717" y="1909" as="sourcePoint" />
+            <mxPoint x="717" y="1884" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ptX2DU8aKGZaoR_pnGZ3-55" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1856" width="54" height="26" as="geometry" />
+          <mxGeometry x="687" y="1856" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-62" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="708" y="2204" as="sourcePoint" />
+            <mxPoint x="708.6699999999998" y="1989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-63" value="Japanese &lt;br&gt;Input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="302" y="2249" width="70" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-66" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;経験&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="2256" width="47" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-67" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;と&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="2256" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-68" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;勘&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483.6" y="2256" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-69" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;に&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522.6" y="2256" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-70" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;頼る&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="562.8" y="2256" width="47" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-71" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;部分&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617.4" y="2256" width="47" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-72" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;が&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671.4" y="2256" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-73" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;残さ&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="713" y="2256" width="47" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-74" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;れ&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="766" y="2256" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-76" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#666666;gradientColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="383.09999999999997" y="2247" width="422.6" height="46.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-77" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="591.08" y="2246.25" as="sourcePoint" />
+            <mxPoint x="591.08" y="2225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-78" value="English&lt;br&gt;Meaning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="307" y="2299.75" width="64" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ptX2DU8aKGZaoR_pnGZ3-80" value="The part that relies on experience and intuition is still there" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="394" y="2301.25" width="328" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
