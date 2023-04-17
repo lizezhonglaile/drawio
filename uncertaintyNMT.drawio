@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T03:09:56.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2yKwxgg61YLl8nl0rboP" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T03:31:31.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="awmaPevc5CWxhmlohgLx" version="21.1.8" type="github">
   <diagram id="XSZD9BSyhmBb0wp4Pm1U" name="第 1 页">
     <mxGraphModel dx="954" dy="507" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FWmyRL8bJBdWvkpw0bI-38" value="输入词语&lt;br&gt;不确定性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6FWmyRL8bJBdWvkpw0bI-37">
+        <mxCell id="6FWmyRL8bJBdWvkpw0bI-38" value="源词语&lt;br&gt;不确定性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6FWmyRL8bJBdWvkpw0bI-37">
           <mxGeometry x="-0.178" y="14" relative="1" as="geometry">
             <mxPoint x="15" y="20" as="offset" />
           </mxGeometry>
@@ -277,7 +277,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FWmyRL8bJBdWvkpw0bI-60" value="输出词语 &amp;amp;&lt;br&gt;句子不确定性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6FWmyRL8bJBdWvkpw0bI-59">
+        <mxCell id="6FWmyRL8bJBdWvkpw0bI-60" value="目标词语 &amp;amp;&lt;br&gt;句子不确定性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6FWmyRL8bJBdWvkpw0bI-59">
           <mxGeometry x="-0.178" y="14" relative="1" as="geometry">
             <mxPoint x="23" y="59" as="offset" />
           </mxGeometry>
