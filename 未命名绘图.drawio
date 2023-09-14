@@ -1,0 +1,283 @@
+<mxfile host="app.diagrams.net" modified="2023-09-14T03:04:15.459Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2ViQ3GSfoYkRtO4SBiM0" version="21.5.2" type="github">
+  <diagram id="V2DTb5OL1VRiCWGHtdKA" name="Page-1">
+    <mxGraphModel dx="795" dy="433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-49" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="225.9" y="3399.13" width="398.1" height="46.75" as="geometry" />
+        </mxCell>
+        <mxCell id="X5AMhHzkb54LyGPV_iVm-110" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;dashed=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="31" y="865" width="136" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-3" value="多头注意力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="319" y="359" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=3;startSize=3;" parent="1" source="MiqbiLdm5wuMEh4iLNZL-5" target="MiqbiLdm5wuMEh4iLNZL-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-5" value="源词嵌入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="319" y="432" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;jumpSize=3;fontSize=5;endSize=3;startSize=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="409" as="sourcePoint" />
+            <mxPoint x="395" y="409" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="419" />
+              <mxPoint x="375" y="419" />
+              <mxPoint x="395" y="419" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=3;startSize=3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.8600000000001" y="186.5" as="sourcePoint" />
+            <mxPoint x="560.8600000000001" y="161.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=4;startSize=3;endSize=3;jumpSize=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="MiqbiLdm5wuMEh4iLNZL-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374" y="358" as="sourcePoint" />
+            <mxPoint x="374" y="407" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;dashed=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="306.4" y="312" width="136" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=3;startSize=3;" parent="1" target="MiqbiLdm5wuMEh4iLNZL-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="561" y="254" as="sourcePoint" />
+            <mxPoint x="560.58" y="229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;dashed=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="491" y="248" width="268" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-18" value="线性映射" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="506" y="212" width="110" height="18.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-19" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="506" y="178" width="110" height="18.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-29" value="前馈网络" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="319" y="318.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;fontSize=4;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=3;endSize=3;" parent="1" source="MiqbiLdm5wuMEh4iLNZL-31" target="MiqbiLdm5wuMEh4iLNZL-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-31" value="对齐头" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="636" y="288.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=3;startSize=3;" parent="1" target="MiqbiLdm5wuMEh4iLNZL-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="561" y="422" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;jumpSize=3;fontSize=5;endSize=3;startSize=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655.9999999999998" y="338.5" as="sourcePoint" />
+            <mxPoint x="675.9999999999998" y="338.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="656" y="348.5" />
+              <mxPoint x="676" y="348.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=4;startSize=3;endSize=3;jumpSize=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="561" y="316" as="sourcePoint" />
+            <mxPoint x="561" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-35" value="&lt;span&gt;前馈网络&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="506" y="254.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-36" value="掩码多头注意力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="506" y="359" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=3;startSize=3;" parent="1" source="MiqbiLdm5wuMEh4iLNZL-38" target="MiqbiLdm5wuMEh4iLNZL-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-38" value="目标词嵌入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="506" y="432" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;jumpSize=3;fontSize=5;endSize=3;startSize=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="542" y="409" as="sourcePoint" />
+            <mxPoint x="582" y="409" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="542" y="419" />
+              <mxPoint x="562" y="419" />
+              <mxPoint x="582" y="419" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=3;startSize=3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.5999999999999" y="288" as="sourcePoint" />
+            <mxPoint x="560.5999999999999" y="274" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560.6" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=3;startSize=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="MiqbiLdm5wuMEh4iLNZL-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="212" as="sourcePoint" />
+            <mxPoint x="560" y="197.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-47" value="多头注意力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="506" y="287" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;fontSize=4;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=3;endSize=3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="299" as="sourcePoint" />
+            <mxPoint x="542" y="347" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="299" />
+              <mxPoint x="497" y="299" />
+              <mxPoint x="497" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=3;startSize=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="MiqbiLdm5wuMEh4iLNZL-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.6199999999999" y="355" as="sourcePoint" />
+            <mxPoint x="561" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;jumpSize=3;fontSize=5;endSize=3;startSize=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="522.9999999999998" y="337" as="sourcePoint" />
+            <mxPoint x="542.9999999999998" y="337" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="523" y="347" />
+              <mxPoint x="543" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;fontSize=4;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=3;endSize=3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="311" as="sourcePoint" />
+            <mxPoint x="497" y="311" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="311" />
+              <mxPoint x="370" y="299" />
+              <mxPoint x="497" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-57" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;编码器&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=4;" parent="1" vertex="1">
+          <mxGeometry x="300.00476190476184" y="287.0004761904761" width="65" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-58" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;解码器&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=4;" parent="1" vertex="1">
+          <mxGeometry x="607.0047619047618" y="227.0004761904761" width="65" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=3;startSize=3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.77" y="469" as="sourcePoint" />
+            <mxPoint x="560.7700000000001" y="452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=3;startSize=3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372.77" y="469" as="sourcePoint" />
+            <mxPoint x="372.77" y="452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-62" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;输入词语序列&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="339" y="471" width="110.8" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="MiqbiLdm5wuMEh4iLNZL-63" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;输出词语序列&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="528" y="471" width="110.8" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="347.7" y="3535" width="441" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="227.1" y="3153.63" width="388.9" height="163.37" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-3" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#E6E6E6;strokeColor=#666666;gradientColor=none;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="228.8" y="3330.13" width="389.2" height="46.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-4" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;処理 用 部 の&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="241" y="3341" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-7" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;熱 伝導 を&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390.4" y="3341" width="103.6" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-8" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;用い て&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="524" y="3341" width="85" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-11" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;处理 用 构件&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="242" y="3236" width="115" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-16" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;由于 热传导&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="3236" width="110" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-21" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;处理 用&amp;nbsp;部件&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="242" y="3273" width="116" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-24" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;采用&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="3236" width="76.2" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-25" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;进行 使用&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="3272.5" width="76.2" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-28" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375.5" y="3368" as="sourcePoint" />
+            <mxPoint x="375.90999999999997" y="3156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-29" value="Src Phrase" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="138" y="3341" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-38" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="513" y="3369" as="sourcePoint" />
+            <mxPoint x="513.6699999999998" y="3154" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-39" value="Japanese &lt;br&gt;Input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="144" y="3402" width="70" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-40" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;処理&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="234" y="3409" width="47" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-41" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;用&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="3409" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-42" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;部&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="324.6" y="3409" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-43" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;の&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="362.6" y="3409" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-44" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;熱&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400.8" y="3409" width="34.2" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-45" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;伝導&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="439.4" y="3409" width="47" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-46" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;を&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490.4" y="3409" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-47" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;用い&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="528" y="3409" width="47" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-48" value="&lt;pre style=&quot;text-align: left; box-sizing: border-box; overflow: auto; font-size: 14px; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; border: 0px; border-radius: 0px; vertical-align: baseline;&quot;&gt;て&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="3409" width="33.4" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oxTGBEpy8pcz7sXoMvzD-50" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423.08000000000004" y="3399.25" as="sourcePoint" />
+            <mxPoint x="423.08000000000004" y="3378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
