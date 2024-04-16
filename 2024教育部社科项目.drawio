@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T03:09:10.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.2.5" etag="NKkMmcO5jqozqZyChcHc" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T04:22:43.966Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ltNMHW8W4659Ja24E6p2" version="24.2.5" type="github">
   <diagram name="第 1 页" id="-u-DV1lfXEBN9TmRHup7">
-    <mxGraphModel>
+    <mxGraphModel dx="867" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-1" value="平行文档获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="124" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-2" value="挖掘短语对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-3" value="监督模型融合短语知识的汉日机器翻译" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-4" value="大模型融合短语知识的汉日机器翻译" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-5" value="构建汉日平行语料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-6" value="平行句对粗筛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="167" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-7" value="平行句对精排打分、过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="211" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-8" value="平行语料库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="561" y="193" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-9" value="Wik汉日数据获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-10" value="汉日&lt;div&gt;单语语料库&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="561" y="67" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endWidth=9.09090909090909;endSize=7.9363636363636365;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="100" as="sourcePoint" />
+            <mxPoint x="560" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endWidth=9.09090909090909;endSize=7.9363636363636365;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="225.55" as="sourcePoint" />
+            <mxPoint x="560" y="225.55" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="225.55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-13" value="基于多语言预训练模型的词对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="277" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-14" value="短语对粗筛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-15" value="短语对打分、过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="364" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-16" value="平行短语表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="561" y="346" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endWidth=9.09090909090909;endSize=7.9363636363636365;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="378.55" as="sourcePoint" />
+            <mxPoint x="560" y="378.55" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="378.55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-21" value="短语切分、匹配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-22" value="短语知识表示、融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="484" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-24" value="训练和测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="528" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
