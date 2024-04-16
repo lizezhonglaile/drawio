@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T12:13:50.639Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gktwo3SqbFZ52Czg2ahX" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T12:14:52.213Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EXCoP9Qda5Gcu0yhFp5l" version="24.2.5" type="github">
   <diagram name="第 1 页" id="-u-DV1lfXEBN9TmRHup7">
     <mxGraphModel dx="734" dy="430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="0YlX4NZNZCxpl2N6hZSD-15" value="短语对打分、过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="364" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0YlX4NZNZCxpl2N6hZSD-16" value="平行短语表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-16" value="双语短语表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="539" y="346" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0YlX4NZNZCxpl2N6hZSD-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endWidth=9.09090909090909;endSize=7.9363636363636365;exitX=1.002;exitY=0.46;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0YlX4NZNZCxpl2N6hZSD-15" target="0YlX4NZNZCxpl2N6hZSD-16">
