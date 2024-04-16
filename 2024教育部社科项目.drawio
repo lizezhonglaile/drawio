@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T12:12:21.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9cgEvhuUOj-ZBP9dBBPv" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T12:13:50.639Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gktwo3SqbFZ52Czg2ahX" version="24.2.5" type="github">
   <diagram name="第 1 页" id="-u-DV1lfXEBN9TmRHup7">
     <mxGraphModel dx="734" dy="430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0YlX4NZNZCxpl2N6hZSD-13" value="基于多语言预训练模型的词对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-13" value="词对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="277" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0YlX4NZNZCxpl2N6hZSD-14" value="短语对粗筛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -98,7 +98,7 @@
         <mxCell id="0YlX4NZNZCxpl2N6hZSD-31" value="翻译评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="119" y="705" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0YlX4NZNZCxpl2N6hZSD-32" value="短语质量评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0YlX4NZNZCxpl2N6hZSD-32" value="短语对质量评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="406" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0YlX4NZNZCxpl2N6hZSD-33" value="人工评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
