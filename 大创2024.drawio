@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T00:18:11.061Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VqCKL572B5EX0k5agi8F" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T00:46:30.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bpxxefkIO31OwG9SA1ol" version="24.2.5" type="github">
   <diagram name="第 1 页" id="-u-DV1lfXEBN9TmRHup7">
     <mxGraphModel dx="1180" dy="499" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QccOVvW3JE7u90uyZqve-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="812" width="403" height="307" as="geometry" />
+        </mxCell>
         <mxCell id="0YlX4NZNZCxpl2N6hZSD-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;平行文档获取&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="125" width="160" height="30" as="geometry" />
         </mxCell>
@@ -236,6 +239,90 @@
               <mxPoint x="660" y="572" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141" y="834" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="834" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="299" y="834" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="377" y="834" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="455" y="834" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141" y="870" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="870" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="299" y="870" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="377" y="870" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="455" y="870" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141" y="909" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="909" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="299" y="909" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="377" y="909" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="455" y="909" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141" y="947" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="947" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="299" y="947" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="377" y="947" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="455" y="947" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141" y="986" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="986" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="299" y="986" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="377" y="986" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;学生&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="455" y="986" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;摄像头3&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="1059" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;摄像头1&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="1059" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="QccOVvW3JE7u90uyZqve-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;摄像头2&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1057" width="93" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
